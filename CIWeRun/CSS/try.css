@@ -1,0 +1,66 @@
+header {
+    display: block;
+    height: 90px;
+}
+
+.head_contain .web_name {
+    float: left;
+}
+
+.head_contain .web_name img {
+    width: 50px;
+    height: 65px;
+    float: left;
+}
+
+.head_contain .web_nav {
+    position: relative;
+    left: 250px;
+    top: 30px;
+}
+
+.head_contain {
+    margin-top: 0;
+    height: 85px;
+    background: deepskyblue;
+    /*color:blue;*/
+}
+
+.head_contain nav {
+    text-align: center
+}
+
+.head_contain nav ul li {
+    display: inline;
+}
+
+.shallow_color {
+    height: 5px;
+    background: orange;
+}
+
+.web_name {
+    width: 200px;
+    height: 65px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-top: 0px;
+}
+
+.head_contain nav {
+    height: 30px;
+    width: 600px;
+}
+
+.head_li {
+    font-size: 25px;
+    font-weight: normal;
+    padding: 5px;
+    width: 80px;
+    height: 40px;
+}
+
+a {
+    text-decoration: none
+}
